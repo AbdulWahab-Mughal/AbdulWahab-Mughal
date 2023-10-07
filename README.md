@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 Currently Learning React-JS.<br>Karachi, Pakistan.<br>Passionate About Continuous Learning.<br>Want To Become A Full Stack Developer.<br>Learning From TechZone.
-
+<br><br>  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
+<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulwahab.zameer.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mughal__abdulwahab) 
